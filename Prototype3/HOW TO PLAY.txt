@@ -1,0 +1,12 @@
+- COLLECT THE THREE STATUES FROM THE CABINS
+- RETURN THEM BACK TO THE STARTING ALTAR
+- FLASHLIGHT ATTRACTS ZOMBIES
+
+MOVE	  ..............................	WASD
+JUMP	  ..............................	SPACE
+PICK UP	  ..............................	LEFT CLICK
+STATUE
+TURN OFF	.................................	RIGHT CLICK
+FLASHLIGHT
+VIEW MAP ................................	Q
+SPRINT  ....................................LEFT SHIFT
